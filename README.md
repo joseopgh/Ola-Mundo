@@ -1,2 +1,2 @@
-# Ola Mundo!
- Primeiro Repositorio do Curso do git Gustavo Guanabara
+# Olá, Mundo!
+ Primeiro Repositorio do Curso do Git/GitHub
